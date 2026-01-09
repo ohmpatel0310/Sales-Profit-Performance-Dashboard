@@ -1,1 +1,6 @@
-This project features an interactive Tableau dashboard designed to analyze sales and profit performance across regions, products, and time periods. It highlights key business trends using KPI tracking, Pareto (80/20) analysis, and time-series forecasting. Dynamic filters and drill-down capabilities enable users to explore performance drivers and support data-driven decision-making.how 
+This project features an interactive Tableau dashboard designed to analyze sales and profit performance across regions, products, and time periods. It highlights key business trends using KPI tracking, Pareto (80/20) analysis, and time-series forecasting. Dynamic filters and drill-down capabilities enable users to explore performance drivers and support data-driven decision-making.# Sales & Profit Performance Dashboard
+
+## Dashboard Previews
+![Overview](Dashboard%201.png)
+![Regional Analysis](Dashboard%202.png)
+![Product Performance](Dashboard%203.png)
